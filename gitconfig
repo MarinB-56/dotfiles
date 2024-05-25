@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 150065021+MarinB-56@users.noreply.github.com
+	name = Marin Boone
